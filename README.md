@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **ibakour37@gmail.com**
 
-- ⚡ Fun fact **People think I'm a robot.**
+- ⚡ Fun fact: **People think I'm a robot.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
