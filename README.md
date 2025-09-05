@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **My skills sharpening**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-kappa-six-47.vercel.app/](https://portfolio-kappa-six-47.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-kappa-six-47.vercel.app/](https://portfolio-kappa-six-47.vercel.app/) -> **New version coming soon..**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ibrahim-bakour/](https://www.linkedin.com/in/ibrahim-bakour/)
 
