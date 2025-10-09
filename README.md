@@ -5,9 +5,9 @@
 </h1>
 <h3 align="center">A last year computer science student</h3>
 
-- 🔭 I’m currently working on [onSoftware Website](https://on-software-delta.vercel.app/)
+- 🔭 I’m currently working on [onSoftware Website](https://on-software-delta.vercel.app/), [Porfolio v2](https://updated-portfolio-six-gilt.vercel.app/), [UMPSA Community Platform]
   
-- 🌱 I’m currently learning **Docker, Flutter, Dart.**
+- 🌱 I’m currently learning **Flutter, Dart.**
 
 - 👯 I’m looking to collaborate on **Real-life Projects**
 
