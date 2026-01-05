@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://updated-portfolio-six-gilt.vercel.app/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/ibrahim-bakour/](https://www.linkedin.com/in/ibrahim-bakour/)
+- 📝 I regularly write articles on [Linkedin](https://www.linkedin.com/in/ibrahim-bakour/)
 
 - 📫 How to reach me **ibakour37@gmail.com**
 
