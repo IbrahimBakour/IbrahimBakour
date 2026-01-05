@@ -5,19 +5,15 @@
 </h1>
 <h3 align="center">A last year computer science student</h3>
 
-- 🔭 I’m currently working on [onSoftware Website](https://on-software-delta.vercel.app/), [Porfolio v2](https://updated-portfolio-six-gilt.vercel.app/), [UMPSA Community Platform]
+- 🔭 I’m currently working on [UMPSA Community Platform](https://umpsa-community-platform.onrender.com/)
   
 - 🌱 I’m currently learning **Flutter, Dart.**
 
 - 👯 I’m looking to collaborate on **Real-life Projects**
 
-- 🤝 I’m looking for help with **My skills sharpening**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-kappa-six-47.vercel.app/](https://portfolio-kappa-six-47.vercel.app/) -> **New version coming soon..**
+- 👨‍💻 All of my projects are available at [Portfolio](https://updated-portfolio-six-gilt.vercel.app/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ibrahim-bakour/](https://www.linkedin.com/in/ibrahim-bakour/)
-
-- 💬 Ask me about **My full-stack skills**
 
 - 📫 How to reach me **ibakour37@gmail.com**
 
