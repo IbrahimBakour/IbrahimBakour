@@ -3,9 +3,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+👋;This+is+Ibrahim.;&center=true&size=30">
   </a>
 </h1>
-<h3 align="center">A last year computer science student</h3>
+<h3 align="center">A Computer Science graduate specializing in Software Engineering</h3>
 
-- 🔭 I’m currently working on [UMPSA Community Platform](https://umpsa-community-platform.onrender.com/)
+- 🔭 My Graduation Project **UMPSA Community Platform**
   
 - 🌱 I’m currently learning **Flutter, Dart.**
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://updated-portfolio-six-gilt.vercel.app/)
 
-- 📝 I regularly write articles on [Linkedin](https://www.linkedin.com/in/ibrahim-bakour/)
+- 📝 I regularly write posts on [Linkedin](https://www.linkedin.com/in/ibrahim-bakour/)
 
 - 📫 How to reach me **ibakour37@gmail.com**
 
